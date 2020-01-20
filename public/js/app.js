@@ -1,4 +1,3 @@
-console.log('Client side js is loaded')
 //Fetch is a part of client side javascript
 
 
